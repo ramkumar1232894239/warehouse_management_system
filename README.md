@@ -1,2 +1,2 @@
-# Hospital-Management-Html
-A decent Hospital Management System which is created using Html, css.
+# warehouse-Management-Html
+A decent warehouse Management System which is created using Html, css.
